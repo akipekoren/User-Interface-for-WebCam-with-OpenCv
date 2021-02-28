@@ -9,5 +9,5 @@ Finally you can give a video path to input file to open video in your computer.
 
 This is the User Interface of the Project
 
-![alt text](https://github.com/akipekoren/User-Interface-for-WebCam-with-OpenCv/blob/main/example.jpg?raw=true)
+![Screenshot](example.png)
 
