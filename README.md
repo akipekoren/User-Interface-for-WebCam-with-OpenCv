@@ -11,3 +11,7 @@ This is the User Interface of the Project
 
 ![Screenshot](example.png)
 
+For example when we write 0, the main computer webcam starts....
+
+
+![Screenshot](example2.png)
